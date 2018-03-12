@@ -1,0 +1,17 @@
+Choosing the best stump:
+The choice of stumps and predictors aim to minimize the misclassified rate-error rate.
+
+Pros and Cons:
+Bigger the tree size, bigger the variance and lower the bias. Vice versa.
+
+How to choose parameters:
+Cross validation / Iterations and stumps
+
+What if the targer region is blank?
+No prediction available
+
+Pruning
+Run all possible branches and try everything to get the smallest error. 
+Note: There is alpha from 0 to infinity
+as alpha increases, the last iterations are gone based on a sequence decided by alpha.
+Using this, we are not trying all possible combinations, but delete things from the decision trees in a certain order
