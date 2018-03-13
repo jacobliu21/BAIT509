@@ -1,0 +1,2 @@
+Hi professor,
+Please find the code for exercise 1 and 2 in the ipynb file. The coding part for exercise is in the R script. All the written parts for all the four exercises are in the ipynb file, which could be run in jupyter notebook.
