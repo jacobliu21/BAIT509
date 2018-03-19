@@ -1,3 +1,5 @@
 ensembles and bagging
 n observations /several predictors/ sample n observations with duplicated replacement
 1/3 would be out of bag
+For binary response variable:
+Instead of learning on residuals, a consecutive tree leans on classes re-weighted so that observations that are incorrectly classified get a higher weight.
