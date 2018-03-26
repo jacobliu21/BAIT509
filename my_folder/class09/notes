@@ -2,3 +2,4 @@ Three dots on the boundary lines are called support vectors
 Choose the line that has the maximum margin(IN svc, the maximum is restricted by the total penalty)
 One vs all might be computationally cheaper. 
 y==yhat get true or false with comparison between true value and predicted value
+When k and r becomes too big, they would skew the data and the prediction.
