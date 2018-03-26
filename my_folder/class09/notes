@@ -1,2 +1,3 @@
 Three dots on the boundary lines are called support vectors
 Choose the line that has the maximum margin(IN svc, the maximum is restricted by the total penalty)
+One vs all might be computationally cheaper. 
